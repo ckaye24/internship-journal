@@ -27,5 +27,7 @@ My Git Essential Training Progress Log
 - Completed the challenge provided as part of the lesson.
 - Received a certificate of completion for the course.
 
+## July 4, 2025 (FRIDAY)
+-I have learned how to create branches, merge changes, and perform rebasing.
 
 
