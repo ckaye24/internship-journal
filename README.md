@@ -28,6 +28,6 @@ My Git Essential Training Progress Log
 - Received a certificate of completion for the course.
 
 ## July 4, 2025 (FRIDAY)
--I have learned how to create branches, merge changes, and perform rebasing.
+- I have learned how to create branches, merge changes, and perform rebasing.
 
 
