@@ -31,5 +31,5 @@ My Git Essential Training Progress Log
 - I have learned how to create branches, merge changes, and perform rebasing.
 
 ## July 6, 2025 (SUNDAY)
--I learned about Git’s detached HEAD and relative references. 
+- I have learned about Git’s detached HEAD and relative references. 
 
