@@ -40,4 +40,11 @@ My Git Essential Training Progress Log
 ## July 10, 2025 (THURSDAY)
 - I completed learning Git commands and concepts.
 
+# laravel-learning-journal
+My Laravel Essential Training Progress Log
+
+## July 21, 2025 (MONDAY)
+- I have watched the Laravel Essential Training video on LinkedIn Learning.
+- I have learned about the Model-View-Controller (MVC) architecture, and practiced handling routing, creating views, and building layouts.
+
 
