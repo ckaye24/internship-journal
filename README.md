@@ -47,4 +47,9 @@ My Laravel Essential Training Progress Log
 - I have watched the Laravel Essential Training video on LinkedIn Learning.
 - I have learned about the Model-View-Controller (MVC) architecture, and practiced handling routing, creating views, and building layouts.
 
+## July 22, 2025
+- I finished watching the Laravel basics on routes, views, and controllers.
+- I learned how to create a view, build layouts with Blade, work with controllers, and complete 
+my first challenge, where I created a controller, a view, and a route. 
+
 
