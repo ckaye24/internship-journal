@@ -53,3 +53,14 @@ My Laravel Essential Training Progress Log
 my first challenge, where I created a controller, a view, and a route. 
 
 
+##  July 28, 2025
+- I just watched the video tutorial.
+
+##  July 29, 2025
+- I was able to understand Laravel configuration, working with databases, creating and running migrations, creating models, and using Eloquent.
+
+## August 2, 2025
+-I watched the Laravel Essential Training video, tried to understand the project requirements, and added authentication using Laravel Breeze. I also created a new Laravel app. I'm not yet done learning and watching.
+
+
+
