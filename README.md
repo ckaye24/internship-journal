@@ -47,22 +47,22 @@ My Laravel Essential Training Progress Log
 - I have watched the Laravel Essential Training video on LinkedIn Learning.
 - I have learned about the Model-View-Controller (MVC) architecture, and practiced handling routing, creating views, and building layouts.
 
-## July 22, 2025
+## July 22, 2025 (TUESDAY)
 - I finished watching the Laravel basics on routes, views, and controllers.
 - I learned how to create a view, build layouts with Blade, work with controllers, and complete 
 my first challenge, where I created a controller, a view, and a route. 
 
 
-##  July 28, 2025
+##  July 28, 2025 (MONDAY)
 - I just watched the video tutorial.
 
-##  July 29, 2025
+##  July 29, 2025 (TUESDAY)
 - I was able to understand Laravel configuration, working with databases, creating and running migrations, creating models, and using Eloquent.
 
-## August 2, 2025
+## August 2, 2025 (SATURDAY)
 - I watched the Laravel Essential Training video, tried to understand the project requirements, and added authentication using Laravel Breeze. I also created a new Laravel app. I'm not yet done learning and watching.
   
-## August 4, 2025
+## August 4, 2025 (MONDAY)
 - I continued working on my Laravel project: applied styles, created the first model, migration, controller, and routes. I also registered resource routes and completed the challenge to create a new resource by following the tutorial step by step.
 
 
