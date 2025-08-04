@@ -61,6 +61,8 @@ my first challenge, where I created a controller, a view, and a route.
 
 ## August 2, 2025
 - I watched the Laravel Essential Training video, tried to understand the project requirements, and added authentication using Laravel Breeze. I also created a new Laravel app. I'm not yet done learning and watching.
-
+  
+## August 4, 2025
+- I continued working on my Laravel project: applied styles, created the first model, migration, controller, and routes. I also registered resource routes and completed the challenge to create a new resource by following the tutorial step by step.
 
 
